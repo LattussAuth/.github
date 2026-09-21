@@ -20,17 +20,17 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://lattuss.com/agent-readiness-scan"><img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-scan-line.svg" width="56"></a><br>
+      <img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-scan-line.svg" width="56"><br>
       <a href="https://lattuss.com/agent-readiness-scan"><strong>Agent Readiness Scan</strong></a><br>
       <sub>Find what your agents could reach, before you switch one on.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://lattuss.com/watchdog"><img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-eye.svg" width="56"></a><br>
+      <img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-eye.svg" width="56"><br>
       <a href="https://lattuss.com/watchdog"><strong>Watchdog</strong></a><br>
       <sub>Every call checked against the person behind it.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://lattuss.com/enforcer"><img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-shield-check.svg" width="56"></a><br>
+      <img alt="" src="https://raw.githubusercontent.com/LattussAuth/.github/main/profile/assets/product-shield-check.svg" width="56"><br>
       <a href="https://lattuss.com/enforcer"><strong>Enforcer</strong></a><br>
       <sub>Scope what comes back, system by system.</sub>
     </td>
