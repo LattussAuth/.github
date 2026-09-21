@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <strong>Start with a scan, or ask us anything:</strong> <a href="mailto:sales@lattuss.com">sales@lattuss.com</a>
+  <strong>Start with a scan, or ask us anything:</strong> <a href="mailto:sales@lattuss.com">sales@lattuss.com</a> · <a href="mailto:hello@lattuss.com">hello@lattuss.com</a>
 </p>
